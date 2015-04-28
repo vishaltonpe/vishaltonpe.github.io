@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Vishal Tonpe : " />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>My Projects</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/vishaltonpe">View on GitHub</a>
+
+          <h1 id="project_title">My Projects</h1>
+          <h2 id="project_tagline"></h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+       
+
+<h3>
+<a name="My-SOA-and-Hadoop-Projects" class="anchor" href="#My-SOA-and-Hadoop-Projects"><span class="octicon octicon-link"></span></a>My SOA and Hadoop Projects.</h3>
+
+<pre><code>move.com(SOA Integration project)
+
+    Project Name: move.com (Jan-2015 to till date)
+    Platform : Oracle SOA suite 12 c , SOAPUI 
+    Project Information: move.com is a real estate website. We are using Oracle SOA Suite 12c to integrate CDH and SFDC. We are using cloud adaptor for it. Also using REST API's.
+    My Role: Developing interfaces in SOA and deploying. Also migrating interfaces from one environment to another as per requirement. Working with SFDC cloud adaptor as well as SOAP/REST API's.
+   
+
+</code></pre>
+
+<p>I was born and raised in Pune, a culturally rich town in Maharashtra, India. I received my Bachelors degree in Computer Application from University of Pune. After completing my Bachelor's education, I have done Masters degree from Pune University in Computer Application(MCA). I got first class in MCA. In my leisure time, I play badminton.
+  After completing I have done OCJP certification. Currently I am learning Hadoop and looking forward for Cloudera certification CCDH.</p>
+
+<pre><code>Skills
+
+    Framework: Apache Hadoop
+    Hadoop Distributions: Cloudera CDH 3, Cloudera CDH4 , Hortonworks Sandbox 2.0
+    Languages: C, C++, VB, Java
+    Front End Web Development: JavaScript, HTML, CSS, jQuery
+    Databases: Oracle, My-SQL, SQL Server. 
+
+</code></pre>
+
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+  </body>
+</html>
+
+
